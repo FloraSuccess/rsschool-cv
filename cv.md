@@ -1,25 +1,31 @@
 #Arofat Alimjonova
 
-##Contacts
+##Contacts:
+    
     f.success2898@gmail.com
 
-###About me
+###About me:
+    
     I am a mom.
 
 ####Skills:
+      
       HTML
       CSS/SASS
       JavaScript (Basic)
       Git
       
-#####Code Example
+#####Code Example:
 
-######Experience
+######Experience:
 
-#######Education
+#######Education:
+        
         University: Tashkent University of Information Technologies, Computer Engineering
+        
         Courses: 
           CS50 lectures
           coursera.org, LifeLongLearning
+          
 ########English
           IELTS 6.0
