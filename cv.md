@@ -11,8 +11,7 @@
 ####Skills:
       
       HTML
-      CSS/SASS
-      JavaScript (Basic)
+      CSS
       Git
       
 #####Code Example:
