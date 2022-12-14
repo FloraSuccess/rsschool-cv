@@ -6,4 +6,4 @@
 
 ###link to project:
 
-       https://FloraSuccess.github.io/rsschool-cv/
+      https://FloraSuccess.github.io/rsschool-cv/
