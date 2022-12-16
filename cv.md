@@ -24,8 +24,8 @@ University: Tashkent University of Information Technologies, Computer Engineerin
         
 #### Courses:
         
-[CS50 lectures]()
-[LifeLongLearning] (www.coursera.org)
+- [CS50 lectures]()
+- [LifeLongLearning] (www.coursera.org)
           
 ## English
 
